@@ -19,9 +19,11 @@ Steps:
 # These are subheadings of our notebook :
 
     01. Import and Install Dependencies
-        hdfghdfg
-    02. Keypoints Using MP FashMesh
-    03. Extract Keypoints Values
+    02. Using Mediapipe (Google's open-source framework)
+        - Given the original image and obtaining the values through the model.
+        - Storing the keypoints values in the mediapipe into a variable.
+        - Calculating blink rate (Euclidean distance).
+    03. Extract Position Landmarks (Keypoints Values)
     04. Setup Folder for Collection
     05. Collect Keypoints Values for Training and Testing
     06. Preprocess Data and Create Labels and Features
