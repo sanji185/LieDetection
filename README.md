@@ -1,11 +1,11 @@
 # LieDetection
-# GOAL : True/Lie Detection Using Sequences
-Create Lie Detection Model using ML (Final Yr USJP Research Project)
+# GOAL : True/Lie Detection Using Sequences from Video
+Create Lie Detection Model using Deep Learning RNN (Final Yr USJP Research Project)
 
 Steps:
 
 01. Extract Keypoints from video using mediapipe fashmesh
-02. Train an LSTM DL Model
+02. Train an RNN LSTM DL Model
 03. Make real time predictions using sequences
 
 
@@ -16,11 +16,14 @@ Steps:
   3. Perform real time True/ Lie Detection using OpenCV
 
 
-# These are subheadings of our notebook :
+# Contents of our notebook:
 
     01. Import and Install Dependencies
-    02. Keypoints Using MP FashMesh
-    03. Extract Keypoints Values
+    02. Using Mediapipe (Google's open-source framework)
+        - Given the original image and obtaining the values through the model.
+        - Storing the keypoints values in the mediapipe into a variable.
+        - Calculating blink rate (Euclidean distance).
+    03. Extract Position Landmarks (Keypoints Values)
     04. Setup Folder for Collection
     05. Collect Keypoints Values for Training and Testing
     06. Preprocess Data and Create Labels and Features
