@@ -18,11 +18,8 @@ Steps:
 
 # These are subheadings of our notebook :
 
-  01. Import and Install Dependencies
-    ![image](https://user-images.githubusercontent.com/59352357/179351724-3dcaa513-8be4-4fdd-8d96-a92267b4b0bd.png)
-    ![image](https://user-images.githubusercontent.com/59352357/179351734-4ff67be1-bf7b-4612-8720-07ec6eafcfcb.png)
-
-
+    01. Import and Install Dependencies
+        hdfghdfg
     02. Keypoints Using MP FashMesh
     03. Extract Keypoints Values
     04. Setup Folder for Collection
