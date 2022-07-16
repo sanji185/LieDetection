@@ -1,5 +1,5 @@
 # LieDetection
-# GOAL : True/Lie Detection Using Sequences
+# GOAL : True/Lie Detection Using Sequences from Video
 Create Lie Detection Model using Deep Learning RNN (Final Yr USJP Research Project)
 
 Steps:
