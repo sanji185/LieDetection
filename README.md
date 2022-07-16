@@ -16,7 +16,7 @@ Steps:
   3. Perform real time True/ Lie Detection using OpenCV
 
 
-# Contains the contents of the our notebook:
+# Contents of our notebook:
 
     01. Import and Install Dependencies
     02. Using Mediapipe (Google's open-source framework)
