@@ -34,4 +34,4 @@ Steps:
     11. Test in Real Time
 
 # Full code details of the video:
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/59352357/179909684-359e768a-1343-4e92-a507-d023e894616f.png)](https://www.youtube.com/watch?v=PSu1qiPmiRw)
+[![Watch Here]()](https://www.youtube.com/watch?v=PSu1qiPmiRw)
