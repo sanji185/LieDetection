@@ -34,4 +34,4 @@ Steps:
     11. Test in Real Time
 
 # Full code details of the video:
-https://youtu.be/PSu1qiPmiRw
+[![Watch the video]()](https://youtu.be/PSu1qiPmiRw)
