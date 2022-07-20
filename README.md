@@ -32,3 +32,6 @@ Steps:
     09. Save Weights
     10. Evaluation using Confusion Matrix and Accuracy
     11. Test in Real Time
+
+# Full code details of the video:
+https://youtu.be/PSu1qiPmiRw
